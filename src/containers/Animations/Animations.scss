@@ -1,0 +1,23 @@
+.animations {
+  &__box {
+    width: 100%;
+    padding: 30px;
+    margin: 10px;
+    color: #fff;
+    &--pink {
+      background-color: #fdb3ca;
+    }
+
+    &--blue {
+      background-color: #a9dfe2;
+    }
+
+    &--purple {
+      background-color: #5c6898;
+    }
+
+    &--grey {
+      background-color: #d1d5fa;
+    }
+  }
+}

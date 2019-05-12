@@ -1,0 +1,13 @@
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+  height: 70px;
+  border-bottom: 1px solid grey;
+
+  & h3 {
+    margin-left: 10px;
+  }
+}

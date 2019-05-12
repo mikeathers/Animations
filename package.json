@@ -1,0 +1,48 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "delay": "^4.2.0",
+    "history": "^4.7.2",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-bootstrap": "^1.0.0-beta.5",
+    "react-collapse": "^4.0.3",
+    "react-dom": "^16.8.2",
+    "react-modal": "^3.8.1",
+    "react-motion": "^0.5.2",
+    "react-redux": "^6.0.0",
+    "react-router-dom": "^4.3.1",
+    "react-router-redux": "^4.0.8",
+    "react-scripts": "2.1.5",
+    "react-spring": "^7.2.10",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.85.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "enzyme": "^3.9.0",
+    "enzyme-adapter-react-16": "^1.9.1",
+    "jest-enzyme": "^7.0.1"
+  }
+}
